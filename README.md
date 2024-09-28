@@ -12,22 +12,13 @@
 
 软件名称是Ultimate NCK Huawei Module。
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7de24487-7214-4d9a-90a6-d0575374d811/419870bc-cb1d-48b3-992b-9fc2b65cc97b/image.png)
-
 详细的教程卖家会提供，因此这里记录一下本次解锁时的步骤。
 
 解锁步骤：
 
 1. 连接加密狗。使用USB Redirector Client连接卖家远程提供的加密狗。
-2. 使用NCK获取BL解锁码。需在手机工厂菜单的后台设置-USB端口设置中选择工厂模式。
-    
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7de24487-7214-4d9a-90a6-d0575374d811/453a6b52-e6da-493e-b7a3-fddade8062f2/image.png)
-    
-    
-3. 进入fastboot模式解锁。手机同时按住音量减和开机键进入fastboot，然后在华为解锁工具里输入之前获取到的解锁码就能解bl锁了。
-    
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7de24487-7214-4d9a-90a6-d0575374d811/aff57935-20be-43f7-870a-51acf334d610/image.png)
-    
+2. 使用NCK获取BL解锁码。需在手机工厂菜单的后台设置-USB端口设置中选择工厂模式。    
+3. 进入fastboot模式解锁。手机同时按住音量减和开机键进入fastboot，然后在华为解锁工具里输入之前获取到的解锁码就能解bl锁了。    
 4. 解锁成功后，每次开机会出现警告页面。
 
 ## 0x02 刷入recovery
